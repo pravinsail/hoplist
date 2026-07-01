@@ -1,5 +1,7 @@
 # HopList (macOS-first)
 
+> **Archived — no longer maintained.** This project is closed and will not receive further updates. The code remains public for reference.
+
 **A SwiftUI + SwiftData task/note/project manager for macOS, built with a shared-first architecture designed for a future iOS target — and developed using Cursor AI sub-agents with defined scopes and responsibilities.**
 
 ## Why
